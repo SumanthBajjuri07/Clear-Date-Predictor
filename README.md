@@ -1,2 +1,2 @@
 # Clear Date Predictor
-prediction using ML model
+Prediction using Machine Learning models
