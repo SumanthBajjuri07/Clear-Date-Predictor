@@ -1,2 +1,2 @@
-# Clear Date Predictor
+# clear date predictor
 Machine Learning
